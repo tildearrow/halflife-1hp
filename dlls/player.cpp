@@ -2997,7 +2997,7 @@ void CBasePlayer::Spawn( void )
 	m_flStartCharge = gpGlobals->time;
 
 	pev->classname		= MAKE_STRING("player");
-	pev->health			= 100;
+	pev->health			= 1;
 	pev->armorvalue		= 0;
 	pev->takedamage		= DAMAGE_AIM;
 	pev->solid			= SOLID_SLIDEBOX;
