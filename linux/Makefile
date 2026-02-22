@@ -135,11 +135,11 @@ TARGETS=
 
 TARGETS+= \
  	hl \
- 	dmc \
- 	ricochet \
-	hl_cdll \
-	dmc_cdll \
-	ricochet_cdll \
+# 	dmc \
+# 	ricochet \
+#	hl_cdll \
+#	dmc_cdll \
+#	ricochet_cdll \
 
 build_dir:
 	-mkdir $(BUILD_DIR);

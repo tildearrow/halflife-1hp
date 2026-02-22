@@ -1,3 +1,17 @@
+# 半減期 (Hangenki)
+
+one health point mod for Half-Life.
+
+you start with 1 HP. you cannot heal. you cannot charge your suit.
+one hit and you're dead.
+
+## why didn't you just use Bunnymod?
+
+- I didn't feel like using the installer/injector.
+- I doubted about its support for steam\_legacy. I prefer steam\_legacy as it resembles the original more than the anniversary update.
+- you can set your health, but not the health cap. this means you gotta be careful not to use first aid stations or health kits.
+
+
 Half Life 1 SDK LICENSE
 ======================
 

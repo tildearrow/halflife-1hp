@@ -86,7 +86,7 @@ public:
 #define MAX_WEAPONS			32
 
 
-#define MAX_NORMAL_BATTERY	100
+#define MAX_NORMAL_BATTERY	0
 
 
 // weapon weight factors (for auto-switching)   (-1 = noswitch)
